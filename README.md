@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanaraj Panabaka</h1>
-<h3 align="center">Aspiring Java Backend & Full-Stack Developer | Microservices Enthusiast</h3>
+<h3 align="center">Aspiring Java Backend & Full-Stack Developer | Passionate about Microservices</h3>
 
 ---
 ## 👨‍💻 About Me
@@ -34,9 +34,9 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Link]  
-- Email: [panabakadhanaraj@gmail.com]  
-- GitHub: [https://github.com/dhanarajpanabaka](https://github.com/dhanarajpanabaka)  
+- LinkedIn: [](https://www.linkedin.com/in/dhanaraj904) 
+- Email: [panabakadhanaraj@gmail.com](mailto:panabakadhanaraj@gmail.com)
+- GitHub: [https://github.com/dhanarajpanabaka](https://github.com/Dhanaraj519)  
 
 ---
 
