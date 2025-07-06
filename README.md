@@ -6,10 +6,9 @@
 
 - 🔭 I’m currently working on **Spring Boot & Microservices projects**  
 - 💻 I mainly work with Java, Spring Boot for Backend, and React for Frontend  
-- 🔧 Currently exploring Microservices using Spring Boot and Spring Security  
+- 🔧 Currently learning Microservices with Spring Boot and Spring Security
 - 🧠 I spend time practicing Data Structures & Algorithms to improve my coding skills  
 - 🏗️ Recently started learning System Design basics to understand how scalable applications work  
-- 🌱 Always curious to learn new technologies
 - 🎯 My aim is to become a skilled Full Stack Developer and contribute to real-world projects  
 
 ---
@@ -32,21 +31,22 @@
 ### ⚙️ Tools & Platforms   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: [](https://www.linkedin.com/in/dhanaraj904) 
-- Email: [panabakadhanaraj@gmail.com](mailto:panabakadhanaraj@gmail.com)
-- GitHub: [https://github.com/dhanarajpanabaka](https://github.com/Dhanaraj519)  
+- LinkedIn: []
+- Email: [panabakadhanaraj@gmail.com]
+- GitHub: [https://github.com/dhanarajpanabaka] 
+
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanaraj904)   
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dhanaraj519) 
+- [![Email](https://img.shields.io/badge/Email-Dhanaraj-red?style=flat&logo=gmail&logoColor=white)](mailto:panabakadhanaraj@gmail.com)
 
 ---
+## 🚀 Future Goals
 
-## ⚡ Fun Fact
+Currently focusing on mastering Full-Stack Development using Java, Spring Boot, and React.  
+Eager to explore Microservices and scalable application design.  
 
-*"Great software comes from writing, rewriting, and learning daily!"*
-
----
-## 🌐 **Let's Connect**
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Email](mailto:your.email@example.com)
+🙏 Thank you for visiting my profile!.....
 
